@@ -11,3 +11,8 @@
   </a>
     </div>
 
+<div align="center">
+  
+  ![Snake animation](https://github.com/mateusbhering/mateusbhering/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
