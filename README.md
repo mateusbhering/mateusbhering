@@ -3,6 +3,39 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateusbhering&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusbhering&layout=compact&langs_count=7&theme=dark"/>
   </div>
+<div align="center">
+  
+  ![Snake animation](https://github.com/mateusbhering/mateusbhering/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<section>
+
+## Estou aprendendo/utilizando essas tecnologias!: ⬇️
+
+<div>
+<h3>Data related:</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="52" alt="postgresql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="mysql logo" />
+          
+  </div>
+  <div>
+  <h3>Front-end:</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  </div>
+  <div>
+  <h3>Outros:</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" height="40" width="52" alt="windows logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="52" alt="aws" />       
+  </div>
+</section>
  
 <div align="center">
   <a href="https://www.linkedin.com/in/mateus-bhering/" target="_blank">
@@ -10,9 +43,3 @@
     </img>
   </a>
     </div>
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/mateusbhering/mateusbhering/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
