@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Bem+vindo!+Meu+nome+%C3%A9+Mateus!;Sou+estudante+de+Ci%C3%AAncia+de+Dados!)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/mateusbhering">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateusbhering&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -11,11 +12,12 @@
 
 <section>
 
-## Estou aprendendo/utilizando essas tecnologias!: ⬇️
+## Estou aprendendo/utilizando essas tecnologias: ⬇️
 
 <div>
 <h3>Data related:</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="52" alt="R" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="52" alt="postgresql logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="mysql logo" />
           
@@ -26,6 +28,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootsrap logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwind" />
+          
   </div>
   <div>
   <h3>Outros:</h3>
