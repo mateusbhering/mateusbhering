@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Bem+vindo!+Meu+nome+%C3%A9+Mateus!;Sou+estudante+de+Ci%C3%AAncia+de+Dados!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Bem+vindo!;Meu+nome+%C3%A9+Mateus!;Sou+estudante+de+Ci%C3%AAncia+de+Dados!)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/mateusbhering">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateusbhering&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
