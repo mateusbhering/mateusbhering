@@ -40,6 +40,9 @@
     <img width="8" />
 </div>
 </section>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusbhering&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/mateus-bhering/" target="_blank">
