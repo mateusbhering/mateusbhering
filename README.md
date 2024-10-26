@@ -2,32 +2,48 @@
     Olá! Meu nome é 
     <a href="https://www.linkedin.com/in/mateus-bhering/">Mateus Bhering.</a>
   </h1>
-
+  
   <section>
 
-## Estou aprendendo/utilizando essas tecnologias: ⬇️
+ ## Estou aprendendo e utilizando essas tecnologias: ⬇️
 
+**<p>Dados</p>**
+    <img src="https://skillicons.dev/icons?i=python" height="42" alt="python logo"  />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgres logo"  />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="mysql logo"  />
+    <img width="8" />
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" width="52" alt="pandas logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="40" width="52" alt="numpy logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="52" alt="postgresql logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="mysql logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo" />          
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />     
+
+**<p>Front-End</p>**
+<div>
+    <img src="https://skillicons.dev/icons?i=html" height="42" alt="html5 logo"  />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=css" height="42" alt="css3 logo"  />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=javascript" height="42" alt="javascript logo"  />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="42" alt="bootsrap logo"  />
+    <img width="8" />
+</div>
+
+**<p>Ferramentas</p>**
+<div>
+    <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=github" height="42" alt="github logo"  />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="vscode logo"  />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=windows" height="42" alt="windows logo"  />
+    <img width="8" />
 </div>
 </section>
 <br>
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbhering&layout=compact&langs_count=7&theme=gotham"/>
-</div>
-<div align="center">
   <a href="https://www.linkedin.com/in/mateus-bhering/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </img>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</img>
   </a>
     </div>
