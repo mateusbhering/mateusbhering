@@ -10,6 +10,10 @@
 **<p>Dados</p>**
     <img src="https://skillicons.dev/icons?i=python" height="42" alt="python logo"  />
     <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42" alt="pandas logo"  />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42" alt="numpy logo"  />
+    <img width="8" />
     <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgres logo"  />
     <img width="8" />
     <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="mysql logo"  />
