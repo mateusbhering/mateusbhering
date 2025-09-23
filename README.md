@@ -32,6 +32,9 @@
     <img width="8" />
 </div>
 
+**<p>Back-end</p>**
+<img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
+    <img width="8" />
 **<p>Ferramentas</p>**
 <div>
     <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
@@ -44,6 +47,7 @@
     <img width="8" />
 </div>
 </section>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusbhering&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
