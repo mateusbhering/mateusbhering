@@ -57,7 +57,7 @@
 </section>
 
 <div align="center">
-  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbhering&layout=compact&&langs_count=8"/>
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbhering&layout=compact&hide=Jupyter%20Notebook"/>
 </div>
 <br>
 <div align="center">
