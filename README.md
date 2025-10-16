@@ -39,8 +39,6 @@
 **<p>Back-end</p>**
 <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
     <img width="8" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="42" alt="bootsrap logo"  />
-    <img width="8" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="nodejs logo"  />
     <img width="8" />
 **<p>Ferramentas</p>**
