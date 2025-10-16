@@ -30,10 +30,18 @@
     <img width="8" />
     <img src="https://skillicons.dev/icons?i=bootstrap" height="42" alt="bootsrap logo"  />
     <img width="8" />
+    <img src="https://skillicons.dev/icons?i=react" height="42" alt="react logo"  />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=typescript" height="42" alt="typescript logo"  />
+    <img width="8" />
 </div>
 
 **<p>Back-end</p>**
 <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="42" alt="bootsrap logo"  />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="nodejs logo"  />
     <img width="8" />
 **<p>Ferramentas</p>**
 <div>
