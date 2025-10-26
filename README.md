@@ -16,8 +16,6 @@
     <img width="8" />
     <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgres logo"  />
     <img width="8" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="mysql logo"  />
-    <img width="8" />
 <div>
 
 **<p>Front-End</p>**
