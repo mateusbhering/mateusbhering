@@ -32,6 +32,8 @@
     <img width="8" />
     <img src="https://skillicons.dev/icons?i=typescript" height="42" alt="typescript logo"  />
     <img width="8" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="tailwind logo"  />
+    <img width="8" />
 </div>
 
 **<p>Back-end</p>**
