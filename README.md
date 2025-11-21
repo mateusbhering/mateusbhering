@@ -51,6 +51,8 @@
     <img width="8" />
     <img src="https://skillicons.dev/icons?i=windows" height="42" alt="windows logo"  />
     <img width="8" />
+      <img src="https://skillicons.dev/icons?i=linux" height="42" alt="linux logo"  />
+    <img width="8" />
 </div>
 </section>
 
