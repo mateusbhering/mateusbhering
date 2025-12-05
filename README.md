@@ -56,9 +56,6 @@
 </div>
 </section>
 
-<div align="center">
-  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbhering&layout=compact&hide=Jupyter%20Notebook"/>
-</div>
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/mateus-bhering/" target="_blank">
