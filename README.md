@@ -3,7 +3,7 @@
     <a href="https://www.linkedin.com/in/mateus-bhering/">Mateus Bhering.</a>
   </h1>
   Estagiário de PL/SQL na Logistics Reply BR, atuando com banco de dados Oracle em ambiente corporativo. Estudo Análise e Desenvolvimento de Sistemas na FIAP.
-Tenho interesse em Engenharia de Dados e desenvolvimento de software.
+Tenho interesse em Engenharia de Dados, Analytics e desenvolvimento de software.
   <section>
 
  ## Estou aprendendo e utilizando essas tecnologias:
