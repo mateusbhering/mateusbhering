@@ -3,7 +3,7 @@
     <a href="https://www.linkedin.com/in/mateus-bhering/">Mateus Bhering.</a>
   </h1>
   Estagiário de PL/SQL na Logistics Reply BR, atuando com banco de dados Oracle em ambiente corporativo. Estudo Análise e Desenvolvimento de Sistemas na FIAP.
-Tenho interesse em Engenharia de Dados, Analytics e desenvolvimento de software.
+Tenho interesse em Engenharia de dados, Ciência de dados, Machine Learning e Analytics.
   <section>
 
  ## Estou aprendendo e utilizando essas tecnologias:
@@ -19,34 +19,11 @@ Tenho interesse em Engenharia de Dados, Analytics e desenvolvimento de software.
     <img width="8" />
     <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgres logo"  />
     <img width="8" />
+    <img src="https://airflow.apache.org/docs/apache-airflow/1.10.6/_images/pin_large.png" height="42" alt="airflow logo"  />
+    <img width="8" />
     <img src="https://p7.hiclipart.com/preview/263/506/483/oracle-database-oracle-corporation-postgresql-relational-database-management-system-oracle-logo.jpg" height="42" alt="oracle logo"  />
     <img width="8" />
    
-<div>
-
-**<p>Desenvolvimento</p>**
-    <img src="https://skillicons.dev/icons?i=html" height="42" alt="html5 logo"  />
-    <img width="8" />
-    <img src="https://skillicons.dev/icons?i=css" height="42" alt="css3 logo"  />
-    <img width="8" />
-    <img src="https://skillicons.dev/icons?i=javascript" height="42" alt="javascript logo"  />
-    <img width="8" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="42" alt="bootsrap logo"  />
-    <img width="8" />
-    <img src="https://skillicons.dev/icons?i=react" height="42" alt="react logo"  />
-    <img width="8" />
-    <img src="https://skillicons.dev/icons?i=typescript" height="42" alt="typescript logo"  />
-    <img width="8" />
-    <img src="https://skillicons.dev/icons?i=next" height="42" alt="next logo"  />
-    <img width="8" />
-    <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="tailwind logo"  />
-    <img width="8" />
-<img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
-    <img width="8" />
-    <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="nodejs logo"  />
-    <img width="8" />
-    <img src="https://skillicons.dev/icons?i=swift" height="42" alt="swift logo"  />
-    <img width="8" />
 **<p>Ferramentas</p>**
 <div>
     <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
@@ -58,6 +35,8 @@ Tenho interesse em Engenharia de Dados, Analytics e desenvolvimento de software.
     <img src="https://skillicons.dev/icons?i=windows" height="42" alt="windows logo"  />
     <img width="8" />
     <img src="https://skillicons.dev/icons?i=linux" height="42" alt="linux logo"  />
+    <img width="8" />
+     <img src="https://skillicons.dev/icons?i=docker" height="42" alt="docker logo"  />
     <img width="8" />
 </div>
 </section>
