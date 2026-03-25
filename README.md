@@ -36,7 +36,9 @@ Tenho interesse em Engenharia de dados, Ciência de dados, Machine Learning e An
     <img width="8" />
     <img src="https://skillicons.dev/icons?i=linux" height="42" alt="linux logo"  />
     <img width="8" />
-     <img src="https://skillicons.dev/icons?i=docker" height="42" alt="docker logo"  />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmlUmMeckgQe-ASycbJn3grUDtGN-mche5bw&s" height="42" alt="macos logo"  />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=docker" height="42" alt="docker logo"  />
     <img width="8" />
 </div>
 </section>
