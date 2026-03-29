@@ -2,7 +2,7 @@
     Olá! Meu nome é 
     <a href="https://www.linkedin.com/in/mateus-bhering/">Mateus Bhering.</a>
   </h1>
-  Estagiário de PL/SQL na Logistics Reply BR, atuando com banco de dados Oracle em ambiente corporativo. Estudo Análise e Desenvolvimento de Sistemas na FIAP.
+  Estagiário de banco de dados (Oracle PL/SQL) na Logistics Reply BR, atuando com banco de dados Oracle em ambiente corporativo. Estudo Análise e Desenvolvimento de Sistemas na FIAP.
 Tenho interesse em Engenharia de dados, Ciência de dados, Machine Learning e Analytics.
   <section>
 
