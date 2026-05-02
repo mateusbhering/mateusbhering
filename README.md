@@ -23,6 +23,8 @@ Tenho interesse em Engenharia de dados, Ciência de dados, Machine Learning e An
     <img width="8" />
     <img src="https://p7.hiclipart.com/preview/263/506/483/oracle-database-oracle-corporation-postgresql-relational-database-management-system-oracle-logo.jpg" height="42" alt="oracle logo"  />
     <img width="8" />
+    <img src="https://skillicons.dev/icons?i=aws" height="42" alt="aws logo"  />
+    <img width="8" />
    
 **<p>Ferramentas</p>**
 <div>
