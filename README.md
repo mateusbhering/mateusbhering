@@ -2,7 +2,7 @@
     Olá! Meu nome é 
     <a href="https://www.linkedin.com/in/mateus-bhering/">Mateus Bhering.</a>
   </h1>
-  Estagiário de dados na Zoppy. Estudo Análise e Desenvolvimento de Sistemas na FIAP.
+  Estudo Análise e Desenvolvimento de Sistemas na FIAP.
 Tenho interesse em Engenharia de dados, Ciência de dados, Machine Learning e Analytics.
   <section>
 
