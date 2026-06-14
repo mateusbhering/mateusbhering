@@ -2,11 +2,14 @@
     Olá! Meu nome é 
     <a href="https://www.linkedin.com/in/mateus-bhering/">Mateus Bhering.</a>
   </h1>
-  Estudo Análise e Desenvolvimento de Sistemas na FIAP.
-Tenho interesse em Engenharia de dados, Ciência de dados, Machine Learning e Analytics.
+Engenheiro de Dados com experiência em pipelines na AWS 
+(Glue, Athena, S3), PySpark, Apache Iceberg e orquestração 
+com Airflow. Construo soluções de dados de ponta a ponta.
+
+Cursando ADS na FIAP · Belo Horizonte, Brasil
   <section>
 
- ## Estou aprendendo e utilizando essas tecnologias:
+ ## Tecnologias que utilizo:
 
 **<p>Dados</p>**
     <img src="https://skillicons.dev/icons?i=python" height="42" alt="python logo"  />
