@@ -2,7 +2,7 @@
     Olá! Meu nome é 
     <a href="https://www.linkedin.com/in/mateus-bhering/">Mateus Bhering.</a>
   </h1>
-Engenheiro de Dados com experiência em pipelines na AWS 
+Profissional com experiência em pipelines na AWS 
 (Glue, Athena, S3), PySpark, Apache Iceberg e orquestração 
 com Airflow. Construo soluções de dados de ponta a ponta.
 
