@@ -1,57 +1,46 @@
-<h1 align="center">
-    Olá! Meu nome é 
-    <a href="https://www.linkedin.com/in/mateus-bhering/">Mateus Bhering.</a>
-  </h1>
-Profissional com experiência em pipelines na AWS 
-(Glue, Athena, S3), PySpark, Apache Iceberg e orquestração 
-com Airflow. Construo soluções de dados de ponta a ponta.
+# Mateus Bhering
 
-Cursando ADS na FIAP · Belo Horizonte, Brasil
-  <section>
+**Dados · Python, SQL, AWS, Airflow** — Análise e Desenvolvimento de Sistemas @ FIAP · Belo Horizonte, Brasil
 
- ## Tecnologias que utilizo:
+Trabalho com pipelines de dados de ponta a ponta: ingestão, transformação, armazenamento e orquestração.
+Hoje meu foco é engenharia de dados na AWS — arquitetura medalhão com S3, Apache Iceberg, Glue e Athena — e
+processamento distribuído com PySpark. Antes disso passei por modelagem relacional em Oracle PL/SQL e por
+quatro anos automatizando processos de engenharia estrutural, onde aprendi que dado bem aplicado tem impacto
+medível (um script de otimização de cortes derrubou a perda de material de 25% para 7%).
 
-**<p>Dados</p>**
-    <img src="https://skillicons.dev/icons?i=python" height="42" alt="python logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42" alt="pandas logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42" alt="numpy logo"  />
-    <img width="8" />
-    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/matplotlib-h2jtl7k3lnduptin06xi4g.png/matplotlib-2uncl5i1mw8pn8b08msh5.png?_a=DATAiZAAZAA0" height="42" alt="matplotlib logo"  />
-    <img width="8" />
-    <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgres logo"  />
-    <img width="8" />
-    <img src="https://airflow.apache.org/docs/apache-airflow/1.10.6/_images/pin_large.png" height="42" alt="airflow logo"  />
-    <img width="8" />
-    <img src="https://p7.hiclipart.com/preview/263/506/483/oracle-database-oracle-corporation-postgresql-relational-database-management-system-oracle-logo.jpg" height="42" alt="oracle logo"  />
-    <img width="8" />
-    <img src="https://skillicons.dev/icons?i=aws" height="42" alt="aws logo"  />
-    <img width="8" />
-   
-**<p>Ferramentas</p>**
-<div>
-    <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
-    <img width="8" />
-    <img src="https://skillicons.dev/icons?i=github" height="42" alt="github logo"  />
-    <img width="8" />
-    <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="vscode logo"  />
-    <img width="8" />
-    <img src="https://skillicons.dev/icons?i=windows" height="42" alt="windows logo"  />
-    <img width="8" />
-    <img src="https://skillicons.dev/icons?i=linux" height="42" alt="linux logo"  />
-    <img width="8" />
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmlUmMeckgQe-ASycbJn3grUDtGN-mche5bw&s" height="42" alt="macos logo"  />
-    <img width="8" />
-    <img src="https://skillicons.dev/icons?i=docker" height="42" alt="docker logo"  />
-    <img width="8" />
-</div>
-</section>
+Inglês fluente (C1 Cambridge), com experiência colaborando em equipes internacionais.
 
-<br>
-<div align="center">
-  <a href="https://www.linkedin.com/in/mateus-bhering/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</img>
-  </a>
-    </div>
+---
+
+## Projetos em destaque
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| **[pipeline_etl_f1](https://github.com/mateusbhering/pipeline_etl_f1)** | Pipeline ELT end-to-end que consome a API pública OpenF1, processa 67k+ registros de telemetria, persiste em PostgreSQL via Parquet e agenda a execução automaticamente. | Python · Airflow · PostgreSQL · Docker · Parquet |
+| **[analise_etanol](https://github.com/mateusbhering/analise_etanol)** | Análise exploratória de 120k+ registros de preços de combustíveis no Brasil (2004–2020): limpeza, tratamento de outliers, estatística descritiva e comparativos regionais. | Python · Pandas · NumPy · Matplotlib |
+| **[soma_planilhas](https://github.com/mateusbhering/soma_planilhas)** | Otimização de cortes de tela em estruturas de concreto armado. Reduziu a perda de material de 25% para 7% em produção. | Python · Pandas |
+| **[correcao_pilares](https://github.com/mateusbhering/correcao_pilares)** | Rotina que automatiza a correção de pranchas de armação de pilares exportadas do CYPECAD, cobrindo ~33% do fluxo manual em 6 etapas configuráveis por regras. | AutoLISP · AutoCAD/ZWCAD |
+
+---
+
+## Stack
+
+**Processamento e orquestração** · PySpark · Apache Spark · Apache Airflow · AWS Glue · ETL/ELT
+**Cloud e armazenamento** · AWS S3 · AWS Athena · Apache Iceberg · Docker
+**Bancos de dados** · PostgreSQL · Oracle PL/SQL · SQL
+**Linguagens** · Python (Pandas, NumPy, Matplotlib) · SQL · JavaScript · Java (básico)
+**BI e visualização** · Power BI · Metabase
+**Ferramentas** · Git · Linux · VS Code · Jupyter · Scrum/Kanban
+
+---
+
+## No momento
+
+Cursando ADS na FIAP (conclusão em dez/2026) e aprofundando em arquitetura de dados na AWS e Apache Iceberg.
+Aberto a oportunidades em engenharia de dados — presencial, híbrido ou remoto.
+
+---
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/mateus-bhering/) · mateusbbhering@gmail.com
