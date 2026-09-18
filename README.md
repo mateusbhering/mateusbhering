@@ -25,12 +25,12 @@ Inglês fluente (C1 Cambridge), com experiência colaborando em equipes internac
 
 ## Stack
 
-**Processamento e orquestração** · PySpark · Apache Spark · Apache Airflow · AWS Glue · ETL/ELT
-**Cloud e armazenamento** · AWS S3 · AWS Athena · Apache Iceberg · Docker
-**Bancos de dados** · PostgreSQL · Oracle PL/SQL · SQL
-**Linguagens** · Python (Pandas, NumPy, Matplotlib) · SQL · JavaScript · Java (básico)
-**BI e visualização** · Power BI · Metabase
-**Ferramentas** · Git · Linux · VS Code · Jupyter · Scrum/Kanban
+- **Processamento e orquestração** — PySpark · Apache Spark · Apache Airflow · AWS Glue · ETL/ELT
+- **Cloud e armazenamento** — AWS S3 · AWS Athena · Apache Iceberg · Docker
+- **Bancos de dados** — PostgreSQL · Oracle PL/SQL · SQL
+- **Linguagens** — Python (Pandas, NumPy, Matplotlib) · SQL · TypeScript/JavaScript · Java (básico)
+- **BI e visualização** — Power BI · Metabase
+- **Ferramentas** — Git · Linux · VS Code · Jupyter · Scrum/Kanban
 
 ---
 
