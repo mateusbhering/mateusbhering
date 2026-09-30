@@ -37,10 +37,10 @@ Inglês fluente (C1 Cambridge), com experiência colaborando em equipes internac
 ## No momento
 
 Cursando ADS na FIAP (conclusão em dez/2026) e aprofundando em arquitetura de dados na AWS e Apache Iceberg.
-Aberto a oportunidades em engenharia de dados — presencial, híbrido ou remoto.
+Aberto a oportunidades na área de dados (Machine Learning, Engenharia de Dados e Inteligência Artificial) — presencial, híbrido ou remoto.
 
 ---
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/mateus-bhering/) · mateusbbhering@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mateus-bhering/) 
